@@ -7,6 +7,7 @@
 ##  be found in the AUTHORS file in the root of the source tree.
 ##
 
+import utils.session
 import argparse
 from os import listdir, path
 from PIL import Image

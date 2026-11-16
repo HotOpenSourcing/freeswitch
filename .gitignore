@@ -297,6 +297,8 @@ libs/freetype-*/
 libs/freetype-*.zip
 libs/miniupnpc-*/
 libs/miniupnpc-*.zip
+libs/libnatpmp-*/
+libs/libnatpmp-*.zip
 libs/SharpZipLib.*/
 libs/SharpZipLib.*.nupkg
 libs/nasm-*/
@@ -336,3 +338,5 @@ src/mod/endpoints/mod_sofia/test/sipp-based-tests
 src/mod/applications/mod_commands/test/test_interface_allowlist
 
 .DS_Store
+config.bat
+node_modules
